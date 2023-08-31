@@ -13,6 +13,8 @@
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kharchenkok&show_icons=true&theme=radical)
+![kharchenkok's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kharchenkok&theme=radical&hide_border=false)
+![kharchenkok's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kharchenkok&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 ![Profile views](https://gpvc.arturio.dev/kharchenkok)
 <!--
